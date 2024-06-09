@@ -1,0 +1,33 @@
+{
+  "name": "akeshya-assignment",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/react": "^3.5.0",
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@heroicons/react": "^2.1.3",
+    "astro": "^4.10.0",
+    "bootstrap": "^5.3.3",
+    "desandro-matches-selector": "^2.0.2",
+    "ev-emitter": "^2.1.2",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^3.0.0",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.7.1",
+    "masonry-layout": "^4.2.2",
+    "outlayer": "^2.1.1",
+    "react-icons": "^5.2.1",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "astro-icon": "^1.1.0"
+  }
+}
